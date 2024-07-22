@@ -63,6 +63,7 @@ header a {
 
 .button {
   margin-top: 10px;
+  margin-bottom: 15px;
   background-color: #3882F6;
   font-size: 12px;
   color: #F9FAF8;
@@ -97,6 +98,7 @@ header a {
 .container {
   display: flex;
   gap: 25px;
+  flex-wrap: wrap;
   justify-content: center;
   padding-bottom: 48px;
   margin-bottom: 50px;
